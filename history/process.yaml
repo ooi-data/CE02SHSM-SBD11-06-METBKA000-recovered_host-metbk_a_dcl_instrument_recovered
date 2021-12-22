@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHSM-SBD11-06-METBKA000-recovered_host-metbk_a_dcl_instrument_recovered
 data_stream: CE02SHSM-SBD11-06-METBKA000-recovered_host-metbk_a_dcl_instrument_recovered
 end_date: '2021-09-16T20:33:07.312Z'
-last_updated: '2021-12-07T02:30:33.282631'
+last_updated: '2021-12-22T05:46:24.756300Z'
 start_date: '2015-04-02T20:41:42.030Z'
-status: success
+status: pending
